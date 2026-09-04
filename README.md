@@ -68,4 +68,16 @@ Screenshot the output
 <img width="817" height="770" alt="SQL1 2" src="https://github.com/user-attachments/assets/2de994f1-0e01-424c-8436-f17b86adecf7" /><img width="962" height="740" alt="SQL1" src="https://github.com/user-attachments/assets/2aa2c051-d8e8-4b33-a45d-4c6b2fd7522c" />
 
 ## May 2, 2026
+Instructions: In preparation for next week's SQL class, using the files from last week, try to combine all tables from Ato E and extract all data. Please screenshot your SQL script and save the extracted data in excel.
+
+If possible, please bring your laptop next week.
+
+<img width="1079" height="859" alt="SQL2 1" src="https://github.com/user-attachments/assets/f3dcf0c1-4924-4127-8283-e2fed1e7c937" />,
+<img width="1044" height="912" alt="SQL2 2" src="https://github.com/user-attachments/assets/9682569a-4769-49f2-8ae5-b272c85ee1f1" />,
+<img width="962" height="740" alt="SQL2 3" src="https://github.com/user-attachments/assets/399a7288-969c-41d4-85e3-09f4fbb475d9" />,
+<img width="817" height="770" alt="SQL2 4" src="https://github.com/user-attachments/assets/d8907025-a7cb-41e5-ad0f-bbcb7dc3483c" />
+
+
+
+
 
