@@ -65,5 +65,6 @@ Distinct branch for Sales D and E
 
 Screenshot the output
 
-!["C:\Users\cande\OneDrive\Documents\SQL1.2.png"](https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/SQL1.2.png)
+<img width="817" height="770" alt="SQL1 2" src="https://github.com/user-attachments/assets/2de994f1-0e01-424c-8436-f17b86adecf7" />
+<img width="962" height="740" alt="SQL1" src="https://github.com/user-attachments/assets/2aa2c051-d8e8-4b33-a45d-4c6b2fd7522c" />
 
