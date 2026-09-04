@@ -83,7 +83,7 @@ Instructions: Please see attached files.
 This will be a group presentation. Please read the case provided in the document and create a PowerPoint presentation that explains your dashboard.
 Each group must submit a video presentation (3–5 minutes) explaining the dashboard. Please upload the video to any platform (e.g., Google Drive or YouTube) and share only the link.
 
-https://youtu.be/Tne1Ye_TrCk
+!["C:\Users\cande\Downloads\Customer Care Analysis_Final_Exam.mp4"](https://youtu.be/Tne1Ye_TrCk)
 
 
 
