@@ -2,7 +2,7 @@
 A collection of data analysis, statistical analysis, and research projects completed during my undergraduate studies in Statistics.
 
 ## JANUARY 31, 2025
-Instruction: Create 3 categories with 2 or more groups and create bar , pie and scattered column Charts. <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_Jan31.xlsx">Candelaria_Jan31.xlsx</a>
+Instruction: Create 3 categories with 2 or more groups and create bar , pie and scattered column Charts. <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_Jan31.xlsx">January 31, 2026.xlsx</a>
 
 ## View Relevant Files
 [1] <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_Feb.7.xlsx">February 7, 2026</a>
@@ -48,3 +48,13 @@ or any dashboard that shows any story below:
 You may use any AI tool; however, you must clearly show how the dataset was generated (e.g., using the RANDBETWEEN function in Excel) and include all references directly in the Excel file.
 
 see <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/MIDTERM_APRIL112026.xlsx">April 11, 2026</a>
+
+## April 18, 2026
+Instructions: Please read the Visualization material and create your own dataset and chart that demonstrate the Gestalt Laws of Visual Perception.
+Guidelines:
+
+You may use your own data or reference examples found online
+If you use online sources, please include the proper citation in the file
+Ensure that your chart clearly illustrates at least 3 Gestalt principle
+
+<a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_April18.xlsx">April 18, 2026</a>
