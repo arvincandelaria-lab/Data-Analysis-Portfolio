@@ -20,10 +20,10 @@ Which dominates overall? Does it change by ?
 Do customers show different patterns vs ?
 How does relate to ?
 
-<a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_Feb28%20(1).xlsx">February 28, 2026/a>
+<a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_Feb28%20(1).xlsx">February 28, 2026</a>
 
 ## March 15, 2026
-Instruction: Conduct research on the use of for . Create your and demonstrate appropriate (e.g., frequency analysis, handling missing values, detecting inconsistencies) as a . (individual submission) <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_March15.pdf
+Instruction: Conduct research on the use of for . Create your and demonstrate appropriate (e.g., frequency analysis, handling missing values, detecting inconsistencies) as a . (individual submission) <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_March15.pdf">March 15, 2026</a>
 
 ## April 11, 2026 (Midterm)
 
@@ -47,4 +47,4 @@ or any dashboard that shows any story below:
 
 You may use any AI tool; however, you must clearly show how the dataset was generated (e.g., using the RANDBETWEEN function in Excel) and include all references directly in the Excel file.
 
-see <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/MIDTERM_APRIL112026.xlsx">April 11, 2026/a>
+see <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/MIDTERM_APRIL112026.xlsx">April 11, 2026</a>
