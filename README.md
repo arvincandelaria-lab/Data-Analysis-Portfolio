@@ -57,4 +57,13 @@ You may use your own data or reference examples found online
 If you use online sources, please include the proper citation in the file
 Ensure that your chart clearly illustrates at least 3 Gestalt principle
 
-<a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_April18.xlsx">April 18, 2026</a>
+<a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_April18.xlsx">April 18, 2026</a>## April 25, 2026
+
+## April 25, 2026 SQL
+Instructions: Create a SQL script extracting data from Sales D and E
+Distinct branch for Sales D and E
+
+Screenshot the output
+
+!["C:\Users\cande\OneDrive\Documents\SQL1.2.png"](https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/SQL1.2.png)
+
