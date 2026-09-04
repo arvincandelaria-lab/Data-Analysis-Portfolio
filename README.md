@@ -72,12 +72,18 @@ Instructions: In preparation for next week's SQL class, using the files from las
 
 If possible, please bring your laptop next week.
 
-<img width="1079" height="859" alt="SQL2 1" src="https://github.com/user-attachments/assets/f3dcf0c1-4924-4127-8283-e2fed1e7c937" />,
-<img width="1044" height="912" alt="SQL2 2" src="https://github.com/user-attachments/assets/9682569a-4769-49f2-8ae5-b272c85ee1f1" />,
-<img width="962" height="740" alt="SQL2 3" src="https://github.com/user-attachments/assets/399a7288-969c-41d4-85e3-09f4fbb475d9" />,
+<img width="1079" height="859" alt="SQL2 1" src="https://github.com/user-attachments/assets/f3dcf0c1-4924-4127-8283-e2fed1e7c937" />
+<img width="1044" height="912" alt="SQL2 2" src="https://github.com/user-attachments/assets/9682569a-4769-49f2-8ae5-b272c85ee1f1" />
+<img width="962" height="740" alt="SQL2 3" src="https://github.com/user-attachments/assets/399a7288-969c-41d4-85e3-09f4fbb475d9" />
 <img width="817" height="770" alt="SQL2 4" src="https://github.com/user-attachments/assets/d8907025-a7cb-41e5-ad0f-bbcb7dc3483c" />
 
+## Ma6 16, 2026 FINAL REQUIREMENTS
+Instructions: Please see attached files.
 
+This will be a group presentation. Please read the case provided in the document and create a PowerPoint presentation that explains your dashboard.
+Each group must submit a video presentation (3–5 minutes) explaining the dashboard. Please upload the video to any platform (e.g., Google Drive or YouTube) and share only the link.
+
+https://youtu.be/Tne1Ye_TrCk
 
 
 
