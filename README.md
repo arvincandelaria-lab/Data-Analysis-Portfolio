@@ -107,7 +107,7 @@ If possible, please bring your laptop next week.
   </tr>
 </table>
 
-## Ma6 16, 2026 FINAL REQUIREMENTS
+## May 16, 2026 FINAL REQUIREMENTS
 Instructions: Please see attached files.
 
 This will be a group presentation. Please read the case provided in the document and create a PowerPoint presentation that explains your dashboard.
