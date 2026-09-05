@@ -25,6 +25,13 @@ How does relate to ?
 ## March 15, 2026
 Instruction: Conduct research on the use of for . Create your and demonstrate appropriate (e.g., frequency analysis, handling missing values, detecting inconsistencies) as a . (individual submission) <a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_March15.pdf">March 15, 2026</a>
 
+## March 21, 2026
+Instructions: Using  Exploratory Data Analysis (EDA) and your fundamental knowledge of basic statistics, conduct research on appropriate data cleaning techniques for both univariate (single-variable) and bivariate (two-variable) data.
+In your excel file, clearly explain how to apply these data cleaning methods and provide at least one example illustrating the techniques for each type of data. You can use the descriptive statistics function in excel.
+Note: While you may collaborate with your group to discuss and research these methods, each student is expected to independently prepare and submit their own individual assignment.
+<a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_March21(Research-on-data-cleaning).pdf">March 21, 2026.pdf</a>
+<a href="https://github.com/arvincandelaria-lab/Data-Analysis-Portfolio/blob/main/Candelaria_March21.xlsx">March 21, 2026.xlsx</a>
+
 ## April 11, 2026 (Midterm)
 
 Instructions: Create your own categorical dataset about the impact of oil price shocks and war-related disruptions on the Philippine economy.
